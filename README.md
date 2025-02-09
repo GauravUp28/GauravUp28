@@ -5,7 +5,7 @@
 
 ## 🌟 About Me  
 🔹 Software Engineer with **3+ years** of experience in **Backend Development & Mobile Applications**  
-🔹 Specialized in **Java, Kotlin, Swift, JavaScript, Python, Go, Node.js, AWS, and System Design**  
+🔹 Specialized in **Java, JavaScript, Python, Go, Kotlin, Swift, Node.js, AWS, and System Design**  
 🔹 Passionate about **building scalable, high-performance systems** and **optimizing APIs**  
 🔹 Currently at **AWS**, working on **backend solutions & microservices for the AWS Console Mobile App**  
 🔹 Open to exciting **full-time opportunities** in **Backend Engineering / Full-Stack Development**  
