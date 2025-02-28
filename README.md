@@ -16,7 +16,7 @@
 
 ### **💻 Backend & Cloud**  
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-007396?style=flat&logo=java&logoColor=white)  ![Go](https://img.shields.io/badge/Go-007396?style=flat&logo=java&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-339933?style=flat&logo=springboot&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=flat&logo=node.js&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-339933?style=flat&logo=springboot&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-339933?style=flat&logo=node.js&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-339933?style=flat&logo=node.js&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  ![System Design](https://img.shields.io/badge/System%20Design-FF9900?style=flat&logo=amazonaws&logoColor=white)  
 
 ### **📱 Mobile Development**  
