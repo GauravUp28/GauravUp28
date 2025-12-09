@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Gaurav! </h1>
 <h2 align="center">🖥️ Software Engineer @ AWS | Backend & Software Developer | System Design Enthusiast  </h2>
 
----
-
 ## 🌟 About Me  
 🔹 Software Engineer with **4+ years** of experience in **Backend Development, Mobile Applications, and GenAI Solutions**    
 🔹 Specialized in **Java, Spring Boot, Node.js, AWS, System Design, and building AI-driven RAG engines**   
