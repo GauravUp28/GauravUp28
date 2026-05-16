@@ -5,7 +5,7 @@
 🔹 Software Engineer with **4+ years** of experience in **Backend Development, Mobile Applications, and GenAI Solutions**    
 🔹 Specialized in **Java, Spring Boot, Node.js, AWS, System Design, and building AI-driven RAG engines**   
 🔹 Passionate about **building scalable, high-performance systems** and **optimizing APIs** for massive user bases (1M+)   
-🔹 Currently at **AWS**, working on **backend solutions & microservices for the AWS Console Mobile App**  
+🔹 Currently at **Cohesity**, working on **backend solutions & microservices**  
 🔹 Open to exciting **full-time opportunities** in **Backend Engineering / Full-Stack Development** 
 
 ## 🛠️ Tech Stack  
